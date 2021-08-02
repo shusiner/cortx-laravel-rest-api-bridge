@@ -9,7 +9,7 @@ Possible use cases are
 
 ## Installation Steps
 
-1. Clone this repo and install it, guide can be found [here](https://laravel.com/docs/8.x/installation). This repo is using sail so if you have docker installed, you can just use the command ./vendor/bin/sail up in the repo directory. This is also mentioned in the above guide.
+1. Clone this [repo](https://github.com/shusiner/cortx-laravel-rest-api-bridge) and install it, guide can be found [here](https://laravel.com/docs/8.x/installation). This repo is using sail so if you have docker installed, you can just use the command ./vendor/bin/sail up in the repo directory. This is also mentioned in the above guide.
 
 2. Install cortx VM, guide can be found [here](https://github.com/Seagate/cortx/blob/main/doc/ova/1.0.4/CORTX_on_Open_Virtual_Appliance.rst).
 
