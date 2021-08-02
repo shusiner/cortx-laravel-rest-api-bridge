@@ -22,7 +22,7 @@ Possible use cases are
 - AWS_ENDPOINT=http://AKIAzqwdJbVIQMa6NuZ_FSk7Ww@192.168.1.160
 - AWS_USE_PATH_STYLE_ENDPOINT=false
 
-4. After repo is running, you can interact with the rest api by using api.http and visual studio code REST Client (humao.rest-client) by finding it in the extension marketplace. Demo video can be found [here]().
+4. After repo is running, you can interact with the rest api by using api.http and visual studio code REST Client (humao.rest-client) by finding it in the extension marketplace. Demo video can be found [here](https://youtu.be/V3LY4AXekMc).
 
 ## Structure of the repo
 
